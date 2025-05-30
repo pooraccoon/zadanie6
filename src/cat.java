@@ -1,4 +1,4 @@
-public class cat extends animal{
+public class cat extends canine{
     private String name;
 
     @Override

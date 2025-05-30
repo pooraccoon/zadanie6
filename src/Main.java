@@ -22,6 +22,22 @@ public class Main {
         cat.makeNoise();
         beaver.makeNoise();
 
+        //aaaa, nie przeczytałam czwartego zadania! to dorobię więcej zwierząt
+
+        dog dog = new dog();
+        lion lion = new lion();
+        wolf wolf = new wolf();
+        feline feline = new feline();
+        canine canine = new canine();
+
+        dog.makeNoise();
+        lion.makeNoise();
+        wolf.makeNoise();
+        animal.roam();
+        feline.roam();
+        canine.roam();
+
+
 
         }
     }
