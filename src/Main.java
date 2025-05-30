@@ -10,6 +10,18 @@ public class Main {
         myCar.start();
         myCar.stop();
 
+        animal animal = new animal();
+        weasel weasel = new weasel();
+        rabbit rabbit = new rabbit();
+        cat cat = new cat();
+        beaver beaver = new beaver();
+
+        animal.makeNoise();
+        weasel.makeNoise();
+        rabbit.makeNoise();
+        cat.makeNoise();
+        beaver.makeNoise();
+
 
         }
     }
